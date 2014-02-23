@@ -1,5 +1,5 @@
 module Jqgrid
   module Rails
-    VERSION = "4.5.4.3"
+    VERSION = "4.6.0.0"
   end
 end
